@@ -43,5 +43,3 @@ Kontribusi selalu diterima dengan senang hati! Jika Anda ingin memperbaiki bug, 
 
 Lisensi
 MIT License
-
-Silakan sesuaikan README di atas sesuai dengan kebutuhan dan rincian aplikasi geolokasi yang Anda buat. Anda dapat menyertakan bagian lain seperti Persyaratan Sistem, Cara Berkontribusi, atau sebagainya.
