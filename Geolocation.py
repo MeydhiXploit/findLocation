@@ -19,6 +19,7 @@ if iprequests.status_code == 200:
         print("Lat :",ipdata["lat"])
         print("Lon :",ipdata["lon"])
         print("Status:", ipdata["status"])
+        print("-" * 40)
     else:
         print("Failed to retrieve IP information.")
 else:
