@@ -62,3 +62,6 @@ Kontribusi selalu diterima dengan senang hati! Jika Anda ingin memperbaiki bug, 
 
 # Lisensi
 MIT License
+
+
+# Copyright Meydhi Ari Nugroho
