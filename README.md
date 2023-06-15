@@ -7,6 +7,19 @@ Aplikasi Geolocation adalah sebuah program sederhana yang memanfaatkan API Geolo
 - Memasukkan alamat IP pengguna dan mendapatkan informasi geolokasi terkait.
 - Menampilkan informasi seperti negara, kode negara, kota, zona waktu, status, dan informasi lainnya terkait alamat IP yang dimasukkan.
 - Memberikan pesan kesalahan jika terjadi kegagalan dalam mendapatkan informasi IP.
+- Input Your IP Address
+- Ip address
+- Query
+- Country
+- Country Code
+- City
+- Timezone
+- Status
+- Region
+- Region name
+- Lat
+- Lon
+
 
 ## Instalasi
 
