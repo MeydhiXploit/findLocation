@@ -14,11 +14,11 @@ if iprequests.status_code == 200:
         print("Country Code:", ipdata["countryCode"])
         print("City:", ipdata["city"])
         print("Timezone:", ipdata["timezone"])
-        print("Status:", ipdata["status"])
         print("Region:", ipdata["region"])
         print("Region name:", ipdata["regionName"])
         print("Lat :",ipdata["lat"])
         print("Lon :",ipdata["lon"])
+        print("Status:", ipdata["status"])
     else:
         print("Failed to retrieve IP information.")
 else:
