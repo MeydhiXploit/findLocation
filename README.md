@@ -13,15 +13,15 @@ Aplikasi Geolocation adalah sebuah program sederhana yang memanfaatkan API Geolo
 - Pastikan Python sudah terpasang di sistem operasi Linux Anda. Jika belum, Anda dapat menginstalnya dengan menggunakan package manager yang disediakan oleh distribusi Linux yang Anda gunakan. Contoh untuk Ubuntu:
 
 ```bash
-   sudo apt update
-   sudo apt install python3
+sudo apt update
+sudo apt install python3
 ```
  - Unduh atau salin kode aplikasi ke direktori yang diinginkan di komputer Anda.
   Buka terminal dan pindah ke direktori tempat kode aplikasi berada.
 
 - Instal pustaka requests dengan menjalankan perintah berikut:
 ```bash
-  pip install requests
+sudo pip install cowsay
 ```
 Jika Anda menggunakan Python versi 3.x, gunakan perintah python3 sebagai gantinya.
 
