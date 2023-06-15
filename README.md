@@ -19,7 +19,8 @@ Aplikasi Geolocation adalah sebuah program sederhana yang memanfaatkan API Geolo
 - Lat
 - Lon
 - Maps
-- Status  
+- Status
+  
 ![alt text](https://github.com/MeydhiXploit/findLocation/blob/master/public/Screenshot%20(200).png?raw=true)
 
 ## Instalasi
