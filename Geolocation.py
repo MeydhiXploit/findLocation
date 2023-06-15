@@ -1,8 +1,7 @@
 import requests
 import json
 import cowsay
-cowsay.ghostbusters("Meydhi Ari Nugroho")
-print("_______________________________________________________________________________________________________")
+cowsay.cow("Meydhi Ari Nugroho")
 ipaddress = input("Input Your IP Address: ")
 iprequests = requests.get(f"http://ip-api.com/json/{ipaddress}")
 
