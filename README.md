@@ -63,7 +63,6 @@ Kontribusi selalu diterima dengan senang hati! Jika Anda ingin memperbaiki bug, 
 # Lisensi
 MIT License
 
-## Donasi To Me For Coffee
-https://trakteer.id/meydhi ari nugroho/tip?open=true
-
+## Donasi For Coffe
+<a href="https://trakteer.id/meydhi ari nugroho/tip?open=true">Donasi For Coffee</a>
 #### Copyright Meydhi Ari Nugroho
